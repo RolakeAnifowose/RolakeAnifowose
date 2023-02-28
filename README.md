@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+• I am <a href="https://morolakeanifowose.com/">Anifowose Morolake</a>.
+
+• I have a Bachelor's degree in Computer Science (Technology) and I am currently doing my Master's in Cloud Computing.
+
 <!--
 **RolakeAnifowose/RolakeAnifowose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
